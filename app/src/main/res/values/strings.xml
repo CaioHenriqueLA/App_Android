@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="hint_padrao">Escreva algo!</string>
+    <string name="text_padrão">Escreva algo acima!</string>
+    <string name="confirmar_padrao">Confirmar</string>
+    <string name="limpar_padrao">Limpar</string>
+    <string name="text_padrao">Escreva algo acima!</string>
+</resources>
